@@ -1,0 +1,19 @@
+---
+toc: false
+about:
+  template: jolla
+  image: MyCoolPic_Cropped.jpg
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/phakphum-jatupitpornchan-a37642190/ 
+    - icon: github
+      text: Github
+      href: https://github.com/PhakphumJ?tab=repositories 
+---
+
+# Phakphum Jatupitpornchan
+
+Hi! I am an MRes/PhD student in Economics at the University of Warwick. My research interests are in the field of macro development. For example, misallocation, structural transformation, spatial disparity.
+
+Prior to starting graduate school, I worked as a researcher at the Thailand Development Institute, where I wrote several policy papers commissioned by Thai government agencies and UNICEF Thailand. I also wrote newspaper articles and blogs discussing topics such as inequality and social protection, which can be found [here](https://phakphumj.github.io/MyWebpage/Publications.html).

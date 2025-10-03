@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Phakphum Jatupitpornchan"
+  navbar:
+    collapse: false
+    left:
+      - href: index.qmd
+        text: Home
+      - Publications.qmd
+      - href: PhakphumCV.pdf
+        text: CV
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
